@@ -1,5 +1,6 @@
 # SmartBrain - v1
-Final project for ZTM course
+Facial Recognition App that utilises an API from clarifai.com to detect faces in images.
+Back-end: https://github.com/rbhachu/smartbrain-api
 
 1. Clone this repo
 2. Run `npm install`
