@@ -1,6 +1,7 @@
 # SmartBrain Frontend - v1
 Facial Recognition App that utilises an API from clarifai.com to detect faces in images.
-Back-end: https://github.com/rbhachu/smartbrain-api
+Backend hosted via Heroku Servers
+Backend Source: https://github.com/rbhachu/smartbrain-backend/
 
 1. Clone this repo
 2. Run `npm install`
