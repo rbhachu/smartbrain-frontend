@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #0700b8;
+  background: linear-gradient(90deg, #0700b8 0%, #00ff88 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  cursor: pointer
+}
+
+
+/*APP*/
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  /* border: 5px solid #282c34; */
+}
+
+.particles {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: -1; /* forces layer to bottom */
+}
+
+article {
+  background: rgba(0, 0, 0, 0.2);
+}
+
+article input {
+  background: #ccc !important
+}
+
+nav {
+  background-color: #0700b8;
+}

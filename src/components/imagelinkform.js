@@ -1,5 +1,5 @@
 import React from 'react';
-import './imagelinkform.css';
+import '../css/imagelinkform.css';
 
 const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => { //pass events for Input and Button capture
     return (
