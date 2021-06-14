@@ -127,7 +127,8 @@ class App extends Component {
       <div className="App">
          <Particles className='particles'
             id="tsparticles"
-            url="http://localhost:3000/particles.json"
+            //url="http://localhost:3000/particles.json"
+            url={`${process.env.REACT_APP_SERVER_URL}/particles.json`}
             init={this.particlesInit}
             loaded={this.particlesLoaded}
         />
