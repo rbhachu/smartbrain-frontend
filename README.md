@@ -1,4 +1,4 @@
-_*Updated Version of this Repo: https://github.com/rbhachu/smartbrain-frontend-jwt*_
+__*Updated Version of this Repo: https://github.com/rbhachu/smartbrain-frontend-jwt*__
 <br><br>
 
 ## SmartBrain Front-End Client
